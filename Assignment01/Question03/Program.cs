@@ -10,62 +10,54 @@ namespace Question03
     {
         static void Main(string[] args)
         {
-            while (true)
+            char choice;
+            int num1, num2;
+
+            do
             {
-                char choice = 'a';
+                Console.WriteLine("\nCalculator Menu:");
+                Console.WriteLine("+ : Addition");
+                Console.WriteLine("- : Subtraction");
+                Console.WriteLine("* : Multiplication");
+                Console.WriteLine("/ : Division");
+                Console.WriteLine("e : Exit");
+                Console.WriteLine("\nEnter operation (+, -, *, /, e): ");
 
-                Console.WriteLine("Enter operation(e, +, -, *, /)");
-                choice = char.Parse(Console.ReadLine());
+                choice = Console.ReadLine()[0];
 
-                switch (choice)
+                if (choice == 'e')
+                    break;
+
+                if (choice == '+' || choice == '-' || choice == '*' || choice == '/')
                 {
-                    case 'e':
-                        {
-                            Environment.Exit(0);
-                            break;
-                        }
-                    case '+':
-                        {
-                            Console.WriteLine("Enter 1st number");
-                            int num1 = int.Parse(Console.ReadLine());
-                            Console.WriteLine("Enter 2nd number");
-                            int num2 = int.Parse(Console.ReadLine());
-                            Console.WriteLine("Addition is " + (num1 + num2));
+                    Console.Write("Enter 1st number: ");
+                    num1 = int.Parse(Console.ReadLine());
+                    Console.Write("Enter 2nd number: ");
+                    num2 = int.Parse(Console.ReadLine());
 
+                    switch (choice)
+                    {
+                        case '+':
+                            Console.WriteLine($"Result: {num1} + {num2} = {num1 + num2}");
                             break;
-                        }
-                    case '-':
-                        {
-                            Console.WriteLine("Enter 1st number");
-                            int num1 = int.Parse(Console.ReadLine());
-                            Console.WriteLine("Enter 2nd number");
-                            int num2 = int.Parse(Console.ReadLine());
-                            Console.WriteLine("Subtraction is " + (num1 - num2));
-
+                        case '-':
+                            Console.WriteLine($"Result: {num1} - {num2} = {num1 - num2}");
                             break;
-                        }
-                    case '*':
-                        {
-                            Console.WriteLine("Enter 1st number");
-                            int num1 = int.Parse(Console.ReadLine());
-                            Console.WriteLine("Enter 2nd number");
-                            int num2 = int.Parse(Console.ReadLine());
-                            Console.WriteLine("Multiplication is " + (num1 * num2));
-
+                        case '*':
+                            Console.WriteLine($"Result: {num1} * {num2} = {num1 * num2}");
                             break;
-                        }
-                    case '/':
-                        {
-                            Console.WriteLine("Enter 1st number");
-                            int num1 = int.Parse(Console.ReadLine());
-                            Console.WriteLine("Enter 2nd number");
-                            int num2 = int.Parse(Console.ReadLine());
-                            Console.WriteLine("Division is " + (num1 / num2));
-
+                        case '/':
+                            Console.WriteLine($"Result: {num1} / {num2} = {num1 / num2}");
                             break;
-                        }
+                    }
                 }
-            }
+                else
+                {
+                    Console.WriteLine("Select valid operation");
+                }
+
+            } while (true);
+
         }
     }
 }
