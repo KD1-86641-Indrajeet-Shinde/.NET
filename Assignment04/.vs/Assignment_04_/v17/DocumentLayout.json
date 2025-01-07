@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29F93917-15AF-4285-BC0F-0866090C6C34}|MathsLib\\MathsLib.csproj|c:\\users\\indrajeet\\downloads\\assignment_04_\\assignment_04_\\mathslib\\maths1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F93917-15AF-4285-BC0F-0866090C6C34}|MathsLib\\MathsLib.csproj|solutionrelative:mathslib\\maths1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0AFDD3-FDFC-429C-A9A1-96A79EB30993}|PocoLibrary\\PocoLibrary.csproj|c:\\users\\indrajeet\\downloads\\assignment_04_\\assignment_04_\\pocolibrary\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0AFDD3-FDFC-429C-A9A1-96A79EB30993}|PocoLibrary\\PocoLibrary.csproj|solutionrelative:pocolibrary\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2A7F63-87A8-4A2F-9C6D-BC7115D63668}|AttributeClassLib\\AttributeClassLib.csproj|c:\\users\\indrajeet\\downloads\\assignment_04_\\assignment_04_\\attributeclasslib\\datatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2A7F63-87A8-4A2F-9C6D-BC7115D63668}|AttributeClassLib\\AttributeClassLib.csproj|solutionrelative:attributeclasslib\\datatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C2FFB-E1B4-4237-AF1A-C97341966945}|Assignment_04_\\Assignment_04_.csproj|c:\\users\\indrajeet\\downloads\\assignment_04_\\assignment_04_\\assignment_04_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60C2FFB-E1B4-4237-AF1A-C97341966945}|Assignment_04_\\Assignment_04_.csproj|solutionrelative:assignment_04_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C724D1-DFC5-4AD4-932A-715F7C8C46CB}|Assignment_Q_2\\Assignment_Q_2.csproj|c:\\users\\indrajeet\\downloads\\assignment_04_\\assignment_04_\\assignment_q_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C724D1-DFC5-4AD4-932A-715F7C8C46CB}|Assignment_Q_2\\Assignment_Q_2.csproj|solutionrelative:assignment_q_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C724D1-DFC5-4AD4-932A-715F7C8C46CB}|Assignment_Q_2\\Assignment_Q_2.csproj|c:\\users\\indrajeet\\downloads\\assignment_04_\\assignment_04_\\assignment_q_2\\assignment_q_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72C724D1-DFC5-4AD4-932A-715F7C8C46CB}|Assignment_Q_2\\Assignment_Q_2.csproj|solutionrelative:assignment_q_2\\assignment_q_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0AFDD3-FDFC-429C-A9A1-96A79EB30993}|PocoLibrary\\PocoLibrary.csproj|c:\\users\\indrajeet\\downloads\\assignment_04_\\assignment_04_\\pocolibrary\\pocolibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE0AFDD3-FDFC-429C-A9A1-96A79EB30993}|PocoLibrary\\PocoLibrary.csproj|solutionrelative:pocolibrary\\pocolibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2A7F63-87A8-4A2F-9C6D-BC7115D63668}|AttributeClassLib\\AttributeClassLib.csproj|c:\\users\\indrajeet\\downloads\\assignment_04_\\assignment_04_\\attributeclasslib\\attributeclasslib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE2A7F63-87A8-4A2F-9C6D-BC7115D63668}|AttributeClassLib\\AttributeClassLib.csproj|solutionrelative:attributeclasslib\\attributeclasslib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F93917-15AF-4285-BC0F-0866090C6C34}|MathsLib\\MathsLib.csproj|c:\\users\\indrajeet\\downloads\\assignment_04_\\assignment_04_\\mathslib\\mathslib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29F93917-15AF-4285-BC0F-0866090C6C34}|MathsLib\\MathsLib.csproj|solutionrelative:mathslib\\mathslib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\Assignment_Q_2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_Q_2\\Program.cs",
+              "ToolTip": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\Assignment_Q_2\\Program.cs",
+              "RelativeToolTip": "Assignment_Q_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:45:17.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\PocoLibrary\\Student.cs",
+              "RelativeDocumentMoniker": "PocoLibrary\\Student.cs",
+              "ToolTip": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\PocoLibrary\\Student.cs",
+              "RelativeToolTip": "PocoLibrary\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:45:17.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Assignment_Q_2.csproj",
+              "DocumentMoniker": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\Assignment_Q_2\\Assignment_Q_2.csproj",
+              "RelativeDocumentMoniker": "Assignment_Q_2\\Assignment_Q_2.csproj",
+              "ToolTip": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\Assignment_Q_2\\Assignment_Q_2.csproj",
+              "RelativeToolTip": "Assignment_Q_2\\Assignment_Q_2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T04:45:17.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttributeClassLib.csproj",
+              "DocumentMoniker": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\AttributeClassLib\\AttributeClassLib.csproj",
+              "RelativeDocumentMoniker": "AttributeClassLib\\AttributeClassLib.csproj",
+              "ToolTip": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\AttributeClassLib\\AttributeClassLib.csproj",
+              "RelativeToolTip": "AttributeClassLib\\AttributeClassLib.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T04:45:17.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataTable.cs",
+              "DocumentMoniker": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\AttributeClassLib\\DataTable.cs",
+              "RelativeDocumentMoniker": "AttributeClassLib\\DataTable.cs",
+              "ToolTip": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\AttributeClassLib\\DataTable.cs",
+              "RelativeToolTip": "AttributeClassLib\\DataTable.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:45:17.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PocoLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\PocoLibrary\\PocoLibrary.csproj",
+              "RelativeDocumentMoniker": "PocoLibrary\\PocoLibrary.csproj",
+              "ToolTip": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\PocoLibrary\\PocoLibrary.csproj",
+              "RelativeToolTip": "PocoLibrary\\PocoLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T04:45:17.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\Assignment_04_\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_04_\\Program.cs",
+              "ToolTip": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\Assignment_04_\\Program.cs",
+              "RelativeToolTip": "Assignment_04_\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:45:17.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MathsLib.csproj",
+              "DocumentMoniker": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\MathsLib\\MathsLib.csproj",
+              "RelativeDocumentMoniker": "MathsLib\\MathsLib.csproj",
+              "ToolTip": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\MathsLib\\MathsLib.csproj",
+              "RelativeToolTip": "MathsLib\\MathsLib.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T04:45:17.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Maths1.cs",
+              "DocumentMoniker": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\MathsLib\\Maths1.cs",
+              "RelativeDocumentMoniker": "MathsLib\\Maths1.cs",
+              "ToolTip": "C:\\Users\\INDRAJEET\\Downloads\\Assignment_04_\\Assignment_04_\\MathsLib\\Maths1.cs",
+              "RelativeToolTip": "MathsLib\\Maths1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:45:17.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
